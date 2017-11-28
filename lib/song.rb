@@ -54,6 +54,7 @@ class Song
     song.name = name
     binding.pry
     song.save
+    song
   end
 
 end
